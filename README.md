@@ -49,11 +49,16 @@ Optimized region selection for oil drilling investments. Used predictive modelin
 
 ---
 
+### 🔧 Sprint 10: Gold Recovery Predictions – OilyGiant  
+**Technologies:** Linear Regression, Bootstrapping, Profit Simulation  
+This project focused on developing machine learning models to predict gold recovery at two key stages of the mineral processing pipeline: the rougher stage and the final purification stage. 
+
+---
+
 ## 🧠 Upcoming Sprints
 
 These future projects will build on my current foundation and explore advanced topics in AI and machine learning:
-
-- 🔧 Sprint 10: Integrated Project  
+ 
 - 🧮 Sprint 11: Linear Algebra  
 - 🧠 Sprint 12: Numerical Methods  
 - ⏱️ Sprint 13: Time Series Analysis  
